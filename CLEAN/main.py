@@ -1,5 +1,5 @@
 from PPO import PPOTrainer
-from enviroment.ChemEnv import ChemEnv
+from environment.ChemEnv import ChemEnv
 from supervised_training.sv_utils import SupervisedTrainingWrapper
 from training import Trainer
 from models import BaseLine
